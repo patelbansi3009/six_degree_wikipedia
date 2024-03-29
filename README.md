@@ -1,1 +1,1 @@
-# six_degree_wikipedia
+# Six Degree of Wikipedia
